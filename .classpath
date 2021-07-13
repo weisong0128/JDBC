@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/jar/oracle-jar/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="F:/jar/mysql-jar/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="F:/jar/FP-jar/hadoop-common-2.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/jar/FP-jar/hive-jdbc-1.2.1-standalone.jar"/>
+	<classpathentry kind="lib" path="F:/jar/FP-jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/jar/FP-jar/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
